@@ -1,6 +1,6 @@
 # My-R-Notes
 ## Notes for R Programming Coursera
-### [Coercion] (http://adv-r.had.co.nz/Data-structures.html)
+### [Coercion] (http://adv-r.had.co.nz/Data-structures.html) (http://adv-r.had.co.nz/Data-structures.html)
 
 Link: http://adv-r.had.co.nz/Data-structures.html
 
